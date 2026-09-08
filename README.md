@@ -9,7 +9,7 @@ I currently work at **Celebratix Software Solution**, building quality into an e
 ### 🔧 What I work with
 - **Testing:** Manual, Functional, Regression, Integration & UAT Testing
 - **Automation:** Selenium (Java)
-- **Test Management:** JIRA (X-Ray)
+- **Test Management:** JIRA (X-Ray) & Azure Dashboard
 - **Version Control:** GitHub
 - **Database:** SQL
 - **Data Extraction:** Octoparse, ParseHub, AI-assisted data extraction tools
